@@ -1,0 +1,5 @@
+E:\PhilipGuo\ForCommit\设计模式\观察者模式\ObserverModel\ObserverModel\ObserverModel\bin\Debug\ObserverModel.exe
+E:\PhilipGuo\ForCommit\设计模式\观察者模式\ObserverModel\ObserverModel\ObserverModel\bin\Debug\ObserverModel.pdb
+E:\PhilipGuo\ForCommit\设计模式\观察者模式\ObserverModel\ObserverModel\ObserverModel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PhilipGuo\ForCommit\设计模式\观察者模式\ObserverModel\ObserverModel\ObserverModel\obj\x86\Debug\ObserverModel.exe
+E:\PhilipGuo\ForCommit\设计模式\观察者模式\ObserverModel\ObserverModel\ObserverModel\obj\x86\Debug\ObserverModel.pdb
